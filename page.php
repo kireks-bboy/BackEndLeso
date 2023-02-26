@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 $name = 'Kirill';
@@ -39,10 +36,6 @@ $workExperience = [
   ],
 ];
 ?>
-
-</body>
-</html>
-
 
 
 
